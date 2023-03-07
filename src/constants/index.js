@@ -116,13 +116,13 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Web Developer",
+    company_name: "Kauai Historical Society",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using JavaScript, HTML and CSS.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -130,7 +130,7 @@ const experiences = [
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
+    company_name: "Call for Humanity",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
@@ -156,7 +156,7 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "Bootcamp Gods",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
