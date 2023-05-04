@@ -16,7 +16,7 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
+  kauai,
   tesla,
   shopify,
   carrent,
@@ -118,9 +118,9 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Kauai Historical Society",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    icon: kauai,
+    iconBg: "#ffffff",
+    date: "March 2020 - April 2022",
     points: [
       "Developing and maintaining web applications using JavaScript, HTML and CSS.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,7 +129,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Web Developer",
     company_name: "Call for Humanity",
     icon: tesla,
     iconBg: "#E6DEDD",
@@ -142,8 +142,8 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Wordpress Developer",
+    company_name: "One Child Canada",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
@@ -237,6 +237,27 @@ const projects = [
       },
     ],
     image: jobit,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Trip Guide",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
     source_code_link: "https://github.com/",
   },
   {
