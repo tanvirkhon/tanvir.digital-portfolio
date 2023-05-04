@@ -21,9 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+// Importing images of companies
+import kauai from "./company/kauai.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -54,7 +55,7 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  kauai,
   tesla,
   carrent,
   jobit,
