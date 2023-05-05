@@ -23,13 +23,16 @@ import threejs from "./tech/threejs.svg";
 
 // Importing images of companies
 import kauai from "./company/kauai.png";
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import tesla from "./company/tesla.png";
+import onechild from "./company/onechild.png";
+import CFH from "./company/CFH.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+// Importing Project images
+import dnd from "./dnd.png";
+import target from "./target.png";
+import archie from "./archie.png";
+import sum from "./sum.png";
+import khs from "./khs.png";
+import cfh from "./cfh.png";
 
 export {
   logo,
@@ -53,11 +56,13 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
   kauai,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  onechild,
+  CFH,
+  cfh,
+  khs,
+  target,
+  dnd,
+  sum,
+  archie,
 };
