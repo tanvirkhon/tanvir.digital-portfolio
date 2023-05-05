@@ -1,12 +1,13 @@
 # Tanvir Khondakar Porfolio Website
 
 ## Description 
-This is my 3JS developer portfolio built using React, Tailwind CSS and Vite. 
+This is my 3JS developer portfolio built using React, Tailwind CSS and Vite. This site showcases my skills, projects and work that I have done in the field. 
+
+It was created with love and with the help of Adrian Hajdin and his channel Javascript Mastery. I hope you will take the time to take a look at my site and reach out to me if you would like to work together on a project in the future. 
+
+Please feel free to visit my live site @ https://tanvir.digital/
 
 ![image](https://user-images.githubusercontent.com/119143763/236369700-f99421c0-7f97-4ce7-b100-2bf0de48d73e.png)
-
-
-Please feel free to visit my site at : 
 
 ## Table of Contents
     
